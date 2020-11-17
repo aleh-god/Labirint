@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7c2422-ddc0-4d2e-a042-72a223adff19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/albogush/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/albogush/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a7c2422-ddc0-4d2e-a042-72a223adff19" name="Default Changelist" comment="Изучаем циклы и условные выражения" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1605595804192</updated>
     </task>
+    <task id="LOCAL-00001" summary="Изучаем циклы и условные выражения">
+      <created>1605603364971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605603364971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,27 +76,31 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Изучаем циклы и условные выражения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изучаем циклы и условные выражения" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605595851037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1605595851037" />
-    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1605599579813">
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1605604692098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605599579813" />
-    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1605599579813">
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605604692098" />
+    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1605604692098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605599579813" />
-    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1605599579812">
+    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605604692098" />
+    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1605604692098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605599579812" />
-    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1605599579813">
+    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605604692098" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1605604692098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605599579813" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605604692098" />
     <state x="342" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1605597767667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
